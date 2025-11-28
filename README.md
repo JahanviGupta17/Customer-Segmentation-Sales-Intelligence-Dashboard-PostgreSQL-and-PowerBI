@@ -31,7 +31,7 @@ The business needed to **understand its sales performance and customer behavior*
 - Provide actionable insights to improve revenue and retention  
 
 **What I Did:**  
-- Cleaned and transformed sales and customer data from PostgreSQL and Excel  
+- Cleaned and transformed sales and customer data from PostgreSQL. 
 - Calculated **RFM scores** for customer segmentation  
 - Built **interactive Power BI dashboards** for visual analysis  
 - Generated a **full report with actionable recommendations** for business stakeholders  
